@@ -1,14 +1,14 @@
-(executable
- (public_name mci)
- (modules hello)
- (libraries mci)
- (name main))
+; (executable
+;  (public_name mci)
+;  (modules hello)
+;  (libraries mci)
+;  (name main))
 
 (library
  (modules mci)
  (name mci))
 
-(test
- (modules test)
- (libraries mci)
- (name test))
+; (test
+;  (modules test)
+;  (libraries mci)
+;  (name test))
