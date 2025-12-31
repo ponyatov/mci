@@ -8,6 +8,8 @@ Sys.command("code lib/legas.ml")
 let app = Sys.getcwd () |> String.split_on_char '/' |> List.rev |> List.hd
 let title = "Modern Compiler Implementation in OCaml"
 let about = "
+embedded Tiger -> C/C++ translator
+
 - OCaml workout
 - ASCII data parsing
 - programming language workbench

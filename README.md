@@ -6,6 +6,8 @@
 
 github: https://github.com/ponyatov/mci
 
+embedded Tiger -> C/C++ translator
+
 - OCaml workout
 - ASCII data parsing
 - programming language workbench
